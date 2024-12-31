@@ -1,0 +1,8 @@
+fastapi
+fastdtw
+librosa
+numpy
+openai_whisper
+whisper
+python-multipart
+uvicorn
